@@ -2,7 +2,7 @@
 Applied Statistics Ⅰ(2021) at National Changhua University of Education(NCUE) MATH<br>
 彰師大數學系-1092應用統計(一)期末專題<br>
 **Topic:** Diamond Price Forecast Analysis and Regression Modeling <br>
-**Score:** 97/100<br>
+**Score:** 97/100 (A+)<br>
 **Project Presentation URL:** https://www.youtube.com/watch?v=gcMZ3JfsU8A
 
 ## Dataset
